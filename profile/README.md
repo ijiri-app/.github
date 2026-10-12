@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="160">
       <a href="https://github.com/BACKEND_GITHUB_ID">
-        <img src="https://github.com/BACKEND_GITHUB_ID.png" width="88" alt="김준현"><br>
+        <img src="https://github.com/abcb-s.png" width="88" alt="김준현"><br>
         <b>김준현</b>
       </a><br>
       <sub>Server</sub>
