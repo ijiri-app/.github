@@ -102,8 +102,15 @@
       <sub>App · Design</sub>
     </td>
     <td align="center" width="160">
-      <a href="https://github.com/BACKEND_GITHUB_ID">
+      <a href="https://github.com/abcb-s">
         <img src="https://github.com/abcb-s.png" width="88" alt="김준현"><br>
+        <b>김준현</b>
+      </a><br>
+      <sub>Server</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/L98293">
+        <img src="https://github.com/L98293.png" width="88" alt="김경윤"><br>
         <b>김준현</b>
       </a><br>
       <sub>Server</sub>
